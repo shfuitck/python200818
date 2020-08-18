@@ -1,0 +1,18 @@
+import turtle
+import time
+s=turtle.Turtle()
+screen=turtle.Screen()
+screen.title('window')
+screen.bgcolor('gray')
+s.pensize(5)
+s.color('white')
+s.forward(100)
+time.sleep(2)
+s.left(90)
+s.forward(100)
+time.sleep(2)
+s.left(90)
+s.forward(100)
+time.sleep(2)
+s.left(90)
+s.forward(100)
